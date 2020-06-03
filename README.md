@@ -1,2 +1,2 @@
-# R_GEO_data_anaysis
+# GEO data anaysis
 生物晶片分析
